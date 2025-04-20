@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class two_arrays_and_print_the_duplicate_numbers {
-    public static void main(String[]args){
+    public static void main(String[] args) {
         /*
         //if there is no duplicated number in same array
         int [] arr1={1,5,8,7,4,6,2,0};
@@ -32,7 +32,7 @@ public class two_arrays_and_print_the_duplicate_numbers {
                 printed.add(num);
             }
         }
-        }
-
     }
+
+}
 

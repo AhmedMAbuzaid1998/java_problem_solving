@@ -11,7 +11,7 @@ public class adding_two_numbers_without_sum_operator {
                 y++;
             }
         }
-        System.out.println("sum = "+x);
+        System.out.println("sum = " + x);
     }
 }
 
